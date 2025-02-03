@@ -1,0 +1,62 @@
+{
+    "form3Value": "1.37 to 1.52",
+    "form3Name": " Anganwadi,SMC/SMDC & Others",
+    "questionNo": "Question No 1.37 to 1.54 is Only for Government and Government Aided Schools",
+   
+    "location": "Whether Anganwadi Centre(s) is/are located inside the school premises?",
+    "anganwadiCentreCodeName":"Code/Name of Anganwadi Centre(s)",
+    "childrenAganwadiCenter":"Children in Anganwadi Centre(s)",
+    "childrenBoys":"Boys",
+    "childrenGirls":"Girls",
+
+    "balavatika": "Whether Balavatika is started in the Co- located Anganwadi/school?",
+    "outofSchool": "Whether any Out of School Children enrolled in the school?",
+    "enrolledOut": "If 1- Yes, (a) whether enrolled Out of School Children attending Special training in school or not?",
+   
+    "remedial": "Number of students attending Remedial Teaching/Extra Classes in Current Year",
+    "enhancement": "Number of students attending Learning Enhancement classes",
+
+    "detailsVisits": "Details of visits to the school during the Previous Academic Year",
+    "noInspections": "(a) Number of Academic inspections",
+    "noCrc": "(b) Number of visits by CRC Coordinator",
+    "noBrc": "(c) Number of visits by Block level officer(BRC/BEO)",
+    "noDistrict": "(d) Number of visits by District/State level officers",
+    "centralGovernmentSchools":"For JNV/KV/Other Central Government Schools",
+    "noRlo":"No. of visits by Regional Level Officer",
+    "noHlo":"No. of visits by Headquarter Level Officer",
+
+    "smc": "(a) Whether School Management Committee (SMC) has been constituted as per RTE norms?",
+    "shiksha": "(b) Whether School Development and Management Committee have been Constituted as per Samagra Shiksha guidelines?",
+    "ifTypeValue": "If (a) or/and (b) is 1-Yes,",
+    "noSmc": "(c) Number of SMC/SDMC Meetings Conducted in Previous Academic Year",
+    "smcPlan": "(d) Whether SMC/SDMC has prepared the School Development Plan?",
+    "mentionYear": "If 1-Yes, mention the year",
+
+    "sbc": "(a) Whether the School Building Committee (SBC) has been constituted?",
+    "ac": "(b) Whether the School has constituted its Academic Committee (AC)?",
+    "pta": "(c) Whether the School has constituted its Parent-Teacher Association (PTA)?",
+    "ifPta": "If 1-Yes, Number of PTA meetings held during the last Academic Year",
+    
+    "pfms": " Is the school registered under Public Financial Management System (PFMS) ?",
+    
+    "multiClass": "Whether the school has multi-class units?",
+    "ifClasses": "If 1-Yes, classes taught together in a single classroom:",
+    "classSeparatorInstruction":"[Use ‘,’ (comma) in between classes. For Example 1,2,3,4]",
+    "classTaught": "Classes Taught Together",
+
+
+    "schoolComplex": "Is the school part of a School Complex?",
+    "schoolHub": "Is the school a Hub School for the school complex?",
+    "ifSchoolComplex": "If 1-Yes, Number of schools in the school complex",
+
+    "ebsb": "Whether the school has undertaken any activity under Ek Bharat Shreshtha Bharat (EBSB)?",
+    "fitSchool": "Is the School certified as Fit India School?",
+    "schoolReport": "Is the school providing Holistic Report Card for every learner based on peer/self/teacher assessment?",
+
+    "noPoshan": " (a) Number of days Mid-day Meal served under PM-POSHAN (in Last Academic year)",
+    "tDays": "(i) Total Days",
+    "tWeeks": "(ii) Days per Week",
+    "tMonth": "(iii) Days per Month",
+    "ifMeal": "(b) If Mid-day Meal Extended to Pre-Primary Section/ Balvatika",
+    "smcRadio": "Same as SMC"
+}

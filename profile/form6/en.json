@@ -1,0 +1,32 @@
+{
+    "form6Value": "1.55",
+    "form6Name": "Section 1B School Safety and Other Parameters",
+    "sdmp": "Whether the School Disaster Management Plan (SDMP) has been developed?(1-Yes, 2-No)",
+    "safetyAudit": "Whether Structural Safety Audit has been conducted?(1-Yes, 2-No)",
+    "nonSafetyAudit": "Whether Non-Structural Safety Audit has been conducted?(1-Yes, 2-No)",
+    "cctv": "Whether CCTV Cameras are available in school?(1-Yes, 2-No)",
+    "fireExtinguishers": "Whether Fire Extinguishers are installed?(1-Yes, 2-No)",
+    "schoolSafetyNodalTeacher":"Does the school have a nodal teacher for school safety? (1-Yes, 2-No)",
+
+    "teacher": "Whether students and teachers undergo regular training in school safety and disaster preparedness?(1-Yes, 2-No)",
+    "disaster": "Whether disaster management is being taught as part of the curriculum?(1-Yes, 2-No)",
+    "selfDefence": "Whether school has received grant for Self Defense Training for Girls?(1-Yes, 2-No)",
+    
+    "noStudents": "Mention Number of Girls Student provided Self Defense training at(i) Upper Primary (ii) Secondary (ii) Higher Secondary grades (Provide actual number of students trained)?",
+    "displayBoard": "Whether the school has displayed safety guidelines on Display Board?(1-Yes, 2-No)",
+    "firstLevel": "Whether the school has appointed any teacher as a first level counsellor? (1-Yes, 2-No)",
+    "childSafety": "Frequency of safety and security audit of schools for ensuring child safety by involving all stakeholders (SMC, Parents, Senior Students, senior girl Students)(0-none, 1-Once, 2-Twice, 3-Three times, 4-Four times, 5-More than four times a year, 6-none)",
+    "photographs": "Is the school displaying photographs of all teachers in a school?(1-Yes, 2-No)",
+    "adopted": "Has the school adopted/initiated Vidya Parvesh Module?(1-Yes, 2-No)",
+    "captured": "Students attendance captured?(1- Attendance Register, 2- Electronically, 3- Biometric)",
+    "teacherCaptured": "Teachers attendance captured?(1- Attendance Register, 2- Electronically, 3- Biometric)",
+    "youthClub": "Whether the school has constituted Youth Club?(1-Yes, 2-No)",
+    "ecoClub": "Whether the school has constituted Eco Club?(1-Yes, 2-No)",
+    "cards": "Whether Teacher Identity Cards are issued to all teachers in the school?(1-Yes, 2-No)",
+    "sssa": "State School Standard Authority (SSSA) self-certification obtained?(1-Yes, 2-No)",
+
+    "attendance": "Attendance Register",
+    "electronically": "Electronically",
+    "biometric": "Biometric"
+   
+}

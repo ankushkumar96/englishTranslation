@@ -1,0 +1,35 @@
+{
+    "form2Value": "1.27 to 1.36",
+    "form2Name": "School Others Details",
+
+    "residential": "Is this a Residential School?",
+    "residentialTypes":"(1-Completely Residential, 2-Partially Residential, 3-Non-Residential)",
+    "ifType": "If 1-Completely Residential / 2-Partially Residential (a) Type of Residential school",
+    "residentialType": "(a) Type of Residential school",
+    "govtSchoolOptions":"(Options For Govt Schools : 1-Ashram (Govt.), 2- Non-Ashram (Govt.), 6-KGBV, 7- Model School,8- Eklavya Model Residential School, 10-Jawahar Navodaya Vidyalaya, 11-Netaji Subhash Residential School)",
+    "nonGovtSchoolOptions":"(Options For Non- Govt Schools: 3- Private, 4-Others)",
+
+    "shift": "Is this a Shift School?",
+    "shiftSchool":"(Shift School: School runs in more than One Shift. For Example: Morning and Afternoon Shifts)",
+
+    "pLevel": "Are majority of the pupils taught through their mother tongue at the Primary level?",
+    "offerVocational": "Does the school offer any pre-vocational exposure at Upper-Primary stage?",
+    "training": "Does the school run any skill training centre after school hours?",
+    "distanceSchool": "Distance* of the school (in km.) from the nearest Govt./ Govt. Aided school ( for example2.6)",
+    "dPrimary": "(a) From Primary School/Section",
+    "uPrimary": "(b) From Upper primary School/Section",
+    "sPrimary": "(capital)From Secondary School/Section",
+    "hPrimary": "(d) From Higher Secondary School/Junior college",
+
+    "dWalking": " Distance is defined as walking distance after discounting for all natural and man-made barriers on the way to the school like highways, train lines etc.",
+    "weatherRoads": "Whether School is Approachable by All-Weather Roads?",
+    "instructionalDays": "Number of instructional days (in previous academic year)",
+    
+    "cce": "Is Continuous and Comprehensive Evaluation (CCE) being implemented in School?",
+    "cceType": "If CCE is being implemented, then",
+    "cumulativeRecords": "(a) Are cumulative records of pupils being maintained?",
+    "cumulativeRecordsP": "If yes, are cumulative records of pupil being shared with parents?",
+   
+    "question136":"Question No 1.36 is Only for Private Unaided Schools",
+    "rteAct":"Does the School take admission under Section12 of the  RTE Act (25% quota as per the RTE Act)? (1-Yes, 2-No) "
+}

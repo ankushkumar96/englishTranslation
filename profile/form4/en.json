@@ -1,0 +1,14 @@
+{
+    "formValue": "1.53",
+    "formName": "Availability of free text books, Teaching Learning Material (TLM), Play material (in current academic year) and Graded Supplementary Material (for previous academic year)",
+    "Indicators": "Indicators",
+    "freeTextbooksReceived":"Whether complete set of free textbooks received?",
+    "textbooksReceivedDate":"When were the textbooks received in the current academic year? (Mayshould be written as 05-May)",
+    "tlm":"Whether TLM available for each grade?",
+    "supplementaryMaterial":"Whether the school has received Graded Supplementary Material in previous academic year?",
+    "supplementaryMaterialUtilization":"If Yes, whether the school utilize graded supplementary material in classroom transactions",
+    "playMaterialAvailability":"Whether play material, games and sports equipment available for each grade?",
+    "freeUniform":"Whether the school has provided free uniform to the students?",
+    "uniformProvided":"If Yes, Mention the month in which the uniforms were provided to students in the current academic year (May should be written as 05-May)"
+   
+}
