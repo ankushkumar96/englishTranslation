@@ -1,0 +1,21 @@
+{
+    "udiseCode":"UDISE Code:",
+    "prePri": "Pre-Primary",
+    "pri": "Primary",
+    "upperPri": "Upper Primary",
+    "sec": "Secondary",
+    "hSec": "Higher Secondary",
+    "total":"TOTAL",
+    "level":"Level",
+    "languageGroup":"language group",
+    "code":"Code",
+    "group":"Group",
+    "yesNo":"(1-Yes, 2-No)",
+    "schoolTypes":"(1-Boys, 2-Girls, 3-Co-Educational)",
+    "boardTypes":"(1-CBSE, 2-State Board, 3-ICSE, 4-International Board, 6-Both CBSE and State Board, 7-Madarsa Board,8-Sanskrit Board, 10-MSRVSSB)",
+    "stateBoard": "If 2- State Board/7-Madarsa Board/8-Sanskrit Board then name of the board:",
+    "affiliationNo": "Affiliation Number",
+    "languageCodes":"(01-Assamese, 02-Bengali, 03-Gujarati, 04-Hindi, 05-Kannada, 06-Kashmiri, 07-Konkani, 08-Malayalam,09-Manipuri, 10-Marathi, 11-Nepali, 12-Odia, 13-Punjabi, 14-Sanskrit, 15-Sindhi, 16-Tamil, 17-Telugu,18-Urdu, 19-English, 20-Bodo, 22-Dogri, 23-Khasi, 24-Garo, 25-Mizo, 26-Bhutia, 27-Lepcha, 28-Limboo,29-French, 30-Hmar, 31-Bishnupriya Manipuri, 32-Karbi, 39-Santhali, 49-Bhodi (Ladakhi), 51-Maithali,71-Balti, 72-Purgi, 73-Tibetian, 97-Foreign Medium)",
+    "ifType": "If 1-YES then",
+    "serialNo":"Sl.No"
+}
